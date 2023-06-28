@@ -15,6 +15,9 @@ RUN npm install
 # Copiamos los archivos necesarios adentro del contenedor
 COPY . .
 
+# Para ejecutar todo el proyecto
+CMD ["npm", "start"]
+
 
 
 

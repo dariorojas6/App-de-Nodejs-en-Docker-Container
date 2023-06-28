@@ -1,0 +1,6 @@
+# archivos que quiero ignorar en mi contenedor
+
+# carpeta node_modules
+node_modules
+# archivo que aparace cuando cometemos un error
+npm-debug.log
